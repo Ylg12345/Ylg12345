@@ -6,5 +6,5 @@
 - I like to explore technology, such as webpack, react, vue, vite. Enjoy studying the underlying principles of frameworks and packaging tools.
 
 - 🌱 I’m currently learning webpack and vite.
-- 📫 How to reach me: <2624966035@qq.com>
+- 📫 How to reach me: <2624966035@qq.com>.
 - ⚡ Fun fact: I like watching anime, such as Attack On Titan.
