@@ -7,5 +7,4 @@
 
 - 🌱 I’m currently learning webpack and vite.
 - 📫 How to reach me: <2624966035@qq.com>
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like watching anime, such as Attack On Titan.
