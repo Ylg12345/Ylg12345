@@ -7,4 +7,4 @@
 - 📫 How to reach me: <2624966035@qq.com>.
 - ⚡ Fun fact: I like watching anime, such as Attack On Titan.
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ylg12345&show_icons=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Ylg12345&show_icons=false&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" /> -->
